@@ -13,12 +13,12 @@
  * http://www.codrops.com
  */
 ;( function( $, window, undefined ) {
-
+//yyyy
 	'use strict';
 
 	// global
 	var Modernizr = window.Modernizr, $body = $( 'body' );
-
+//sdfg
 	$.DLMenu = function( options, element ) {
 		this.$el = $( element );
 		this._init( options );
